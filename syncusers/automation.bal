@@ -1,3 +1,4 @@
+import ballerina/log;
 
 @display {
     label: "SyncUsers"
